@@ -1,0 +1,26 @@
+.profile__edit-button{
+    padding: 0;
+    width: 24px;
+    height: 24px;
+    background-color: #000000;
+    border: 1px solid #FFFFFF;
+    background-image: url(../../../images/ruchka.svg);
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-position: center;
+    grid-column: 2;
+    grid-row: 1;
+    margin-top: 15px;
+}
+
+.profile__edit-button:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 864px){
+    .profile__edit-button{
+        width: 18px;
+        height: 18px;
+    }
+}

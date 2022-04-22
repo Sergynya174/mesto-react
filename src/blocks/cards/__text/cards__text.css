@@ -1,0 +1,9 @@
+.cards__text{
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 29px;
+    margin: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}

@@ -1,0 +1,16 @@
+.cards__remove{
+    width: 18px;
+    height: 19px;
+    background-image: url(../../../images/del.svg);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    position: absolute;
+    border: none;
+    right: 20px;
+    top: 20px;
+}
+
+.cards__remove:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}

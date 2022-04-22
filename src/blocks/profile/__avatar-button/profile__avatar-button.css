@@ -1,0 +1,21 @@
+.profile__avatar-button{
+    background-color: transparent;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    border: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0;
+    transition: background-color .3s ease;
+}
+
+.profile__avatar-button:hover {
+    background-color: rgba(0, 0, 0, .8);
+    background-image: url('../../../images/ruchka.svg');
+    background-size: 26px;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
