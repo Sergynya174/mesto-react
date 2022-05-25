@@ -35,3 +35,5 @@
 `npm run build` - запуск сборки проекта
 
 `npm run deploy` - публикация сборки на github pages
+
+### [Ссылка проекта](https://sergynya174.github.io/mesto-react/)
