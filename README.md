@@ -28,7 +28,7 @@
 
 ## Инструкция по установке
 ```
-git clone git@github.com:Sergynya174/mesto-react.git
+git clone https://github.com/Sergynya174/mesto-react.git
 cd mesto-react
 npm install
 npm start
